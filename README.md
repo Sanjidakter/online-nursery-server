@@ -1,4 +1,4 @@
-# Sports Facility Booking Platform
+# online-nursery-server
 
 ## Live URL
 
@@ -33,5 +33,4 @@ Visit the live application at: https://nursery-db.vercel.app/
 ````bash
     npm run start-dev
     ```
-"# online-nursery-server"
-````
+
